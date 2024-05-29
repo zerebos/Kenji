@@ -8,3 +8,5 @@ services:
     volumes:
       - ./settings.sqlite3:/app/settings.sqlite3
       - ./config.prod.json:/app/config.json
+      - ./levels.json:/app/levels.json
+      - ./reactions.json:/app/reactions.json
