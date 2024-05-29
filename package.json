@@ -1,7 +1,7 @@
 {
-  "name": "experientia",
-  "version": "1.0.0",
-  "description": "Levelling bot for Discord.",
+  "name": "veterankenji",
+  "version": "2.0.0",
+  "description": "Bot for levelling and reactions for YHS.",
   "main": "src/index.js",
   "repository": "",
   "scripts": {
@@ -15,12 +15,8 @@
     "cheerio": "^1.0.0-rc.3",
     "discord.js": "^12.2.0",
     "discord.js-commando": "github:discordjs/Commando",
-    "erlpack": "github:discordapp/erlpack",
-    "node-opus": "^0.3.3",
-    "sodium": "^3.0.2",
     "sqlite": "^4.0.23",
-    "sqlite3": "git+https://github.com/mapbox/node-sqlite3.git",
-    "string-similarity": "^4.0.1",
+    "sqlite3": "^5.0.2",
     "utf-8-validate": "^5.0.2"
   }
 }
