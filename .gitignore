@@ -1,5 +1,6 @@
 node_modules/
 config.json
+config.*.json
 levels.json
 reactions.json
 settings.sqlite3
